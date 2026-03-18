@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Projet BTS CIEL ER · Lycée Bréquigny · Session 2026</b><br>
-  Mini-drone basé sur ESP32 : électronique, motorisation, PCB, code embarqué et gestion de projet
+  Mini-drone basé sur ESP32 : électronique, réseau, informatique et gestion de projet
 </p>
 
 ---
