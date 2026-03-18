@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/banners.png" alt="ESP_DRONE banner" width="100%">
+  <img src="docs/images/banners.jpg" alt="ESP_DRONE banner" width="100%">
 </p>
 
 
