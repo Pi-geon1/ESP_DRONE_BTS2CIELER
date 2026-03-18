@@ -1,75 +1,81 @@
-# ESP_DRONE – BTS CIEL2ER
+# 🚁 ESP_DRONE
 
-Projet de BTS CIEL ER réalisé au Lycée Bréquigny par **Noah, Ahmet et Lucas** pour la validation du diplôme de technicien supérieur.
+<p align="center">
+  <b>Projet BTS CIEL ER · Lycée Bréquigny · Session 2026</b><br>
+  Mini-drone basé sur ESP32 : électronique, motorisation, PCB, code embarqué et gestion de projet
+</p>
 
-## Présentation
+---
 
-ESP_DRONE est un projet de mini-drone basé sur **ESP32**, conçu dans le cadre de l’épreuve E6.  
-L’objectif est de concevoir une carte électronique complète permettant :
+## ✨ Présentation
+
+**ESP_DRONE** est un projet réalisé dans le cadre du **BTS CIEL option Électronique et Réseaux**.  
+L’objectif est de concevoir un **mini-drone quadricoptère basé sur ESP32**, capable d’intégrer :
 
 - la motorisation du drone
 - la stabilisation
 - le maintien d’altitude
-- le pilotage en Wi-Fi
-- l’intégration de différents sous-systèmes sur un même PCB
+- le maintien de position
+- le pilotage via Wi-Fi
+- l’affichage d’informations système
 
-## Équipe projet
+Ce dépôt GitHub centralise **toute l’avancée du projet**, aussi bien sur la partie technique que sur la gestion de projet.
 
-- **Noah** : motorisation et déplacements simples
-- **Ahmet** : stabilité
-- **Lucas** : batterie
+---
 
-## Objectifs du projet
+## 👥 Équipe projet
 
-- concevoir un drone fonctionnel à base d’ESP32
-- réaliser le schéma structurel et le PCB sous Proteus
-- développer le code embarqué sous PlatformIO / VS Code
-- tester les moteurs, capteurs et fonctions principales
-- assurer la gestion de projet jusqu’à la soutenance finale
+| Nom | Rôle |
+|------|------|
+| **Noah Hamon-Mallé** | Motorisation du drone et déplacements simples |
+| **Ahmet** | À compléter |
+| **Lucas** | À compléter |
 
-## Arborescence
+---
 
-- `docs/` : revues de projet, soutenance, images
-- `hardware/` : schémas, PCB, datasheets
-- `firmware/` : code ESP32 et tests PlatformIO
-- `gestion-projet/` : Gantt, journal de bord, tableau de suivi
-- `media/` : photos et vidéos du projet
+## 🎯 Objectifs du projet
 
-## Avancement
+- Concevoir une carte électronique complète autour d’un **ESP32**
+- Réaliser le **schéma structurel** et le **PCB**
+- Développer le code embarqué sous **PlatformIO / VS Code**
+- Mettre en œuvre les moteurs, capteurs et interfaces
+- Tester les fonctions principales du drone
+- Assurer un suivi de projet clair jusqu’à la soutenance finale
 
-### Revue 1
-- analyse du cahier des charges
-- étude SYSML
-- schéma fonctionnel
-- début du schéma structurel
-- organisation GitHub / Drive / journal de bord
+---
 
-### Revue 2
-- à compléter
+## 🛠️ Technologies utilisées
 
-### Revue 3
-- à compléter
+<p>
+  ESP32 · Proteus · PlatformIO · VS Code · GitHub
+</p>
 
-## Technologies utilisées
+---
 
-- **ESP32**
-- **Proteus**
-- **PlatformIO**
-- **VS Code**
-- **GitHub**
+## 🧩 Organisation du dépôt
 
-## Documentation
-
-Toute la documentation du projet est classée dans le dossier `docs/`.
-
-## Gestion de projet
-
-Le suivi du projet est assuré avec :
-- un journal de bord
-- un diagramme de Gantt
-- un tableau de bord
-- un espace GitHub structuré
-
-## Auteur
-
-Projet réalisé dans le cadre du **BTS CIEL ER – Lycée Bréquigny – Session 2026**.
+```text
+ESP-Drone-BTS-CIEL/
+├── README.md
+├── docs/
+│   ├── revue-1/
+│   ├── revue-2/
+│   ├── revue-3/
+│   ├── soutenance/
+│   └── images/
+├── hardware/
+│   ├── schema/
+│   ├── pcb/
+│   ├── composants/
+│   └── datasheets/
+├── firmware/
+│   ├── esp32-platformio/
+│   └── tests/
+├── gestion-projet/
+│   ├── gantt/
+│   ├── journal-de-bord/
+│   ├── tableau-de-bord/
+│   └── repartition-taches/
+└── media/
+    ├── photos/
+    └── videos/
