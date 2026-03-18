@@ -28,8 +28,8 @@ Ce dépôt GitHub centralise **toute l’avancée du projet**, aussi bien sur la
 | Nom | Rôle |
 |------|------|
 | **Noah Hamon-Mallé** | Motorisation du drone et déplacements simples |
-| **Ahmet** | À compléter |
-| **Lucas** | À compléter |
+| **Ahmet** | Stabilité du drône |
+| **Lucas** | Gestion de la bateie |
 
 ---
 
