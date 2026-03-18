@@ -16,8 +16,8 @@ L’objectif est de concevoir une carte électronique complète permettant :
 ## Équipe projet
 
 - **Noah** : motorisation et déplacements simples
-- **Ahmet** : à compléter
-- **Lucas** : à compléter
+- **Ahmet** : stabilité
+- **Lucas** : batterie
 
 ## Objectifs du projet
 
