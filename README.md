@@ -1,6 +1,6 @@
 # ESP_DRONE – BTS CIEL2ER
 
-Projet de BTS CIEL ER réalisé au Lycée Bréquigny par **Noah, Ahmet et Lucas**.
+Projet de BTS CIEL ER réalisé au Lycée Bréquigny par **Noah, Ahmet et Lucas** pour la validation du diplôme de technicien supérieur.
 
 ## Présentation
 
