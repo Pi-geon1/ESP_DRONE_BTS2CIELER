@@ -24,7 +24,7 @@ L’objectif est de concevoir un **mini-drone quadricoptère basé sur ESP32**, 
 - le pilotage via Wi-Fi
 - l’affichage d’informations système
 
-Ce dépôt GitHub centralise **toute l’avancée du projet**, aussi bien sur la partie technique que sur la gestion de projet.
+Ce dépôt GitHub centralise **toute l’avancée du projet**.
 
 ---
 
