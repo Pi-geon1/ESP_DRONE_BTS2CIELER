@@ -33,8 +33,8 @@ Ce dépôt GitHub centralise **toute l’avancée du projet**.
 | Nom | Rôle |
 |------|------|
 | **Noah** | Motorisation du drone et déplacements simples |
-| **Ahmet** | Stabilité du drône |
-| **Lucas** | Gestion de la bateie |
+| **Ahmet** | Stabilité du drone |
+| **Lucas** | Gestion de la baterie |
 
 ---
 
